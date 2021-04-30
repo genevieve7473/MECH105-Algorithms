@@ -8,24 +8,13 @@ Algorithms created for MECH 105: Numerical Methods
     - Output: base2 = number in base 2
 - False Position 
   - Finds the root of a function using the false position method
-    - Inputs: func = function
-    -          xl = lower bouds
-    -          xu = upper bounds
-    -          ea = stopping criterien
-    -          maxit = maximum iterations
-    -          varargin = other information
-    - Ouputs: root = root of function
-              fx = f(x) value
-              ea = approximate error
-              iter = number of iterations
+    - Inputs: function, lower bounds, upper bounds, stopping criterien, maximum iterations, and other information
+    - Ouputs: root of the function, f(x) value, approximate error, and number of iterations
 - LU Factorization
   - Creates 3 matricies using LU decomposition with pivoting
-    - Input: A = a coefficient matrix
-    - Outputs: L = a lower trianguar matrix
-               U = an upper triangular matrix
-               P = a permuation matrix
+    - Input: a coefficient matrix
+    - Outputs: a lower triangular matrix, an upper triangular matrix, and a permuation matrix
 - Simpson's 1/3 Rule
   - Numerically evaluates an integral by Simpson's 1/3 Rule 
-    - Inputs: x = the vector of equally spaced independent variables
-              y = the vector of function values with respect to x
-    - Output: I = the numerical integral calculated
+    - Inputs: a vector of equally spaced independent variables and a vector function values with respect to x
+    - Output: the numerical integral calculated
