@@ -4,4 +4,4 @@ Converts a base 10 number into a base 2 number
   - Output: base2 = number in base 2
 
 Format: 
-    - [base2] = binaryConverter(base10)
+     [base2] = binaryConverter(base10)
