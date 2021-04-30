@@ -10,5 +10,3 @@ Algorithms created for MECH 105: Numerical Methods
   - Creates 3 matricies using LU decomposition with pivoting
 - Simpson's 1/3 Rule
   - Numerically evaluates an integral by Simpson's 1/3 Rule 
-    - Inputs: a vector of equally spaced independent variables and a vector function values with respect to x
-    - Output: the numerical integral calculated
