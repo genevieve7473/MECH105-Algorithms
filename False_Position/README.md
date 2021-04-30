@@ -2,8 +2,8 @@
 
 Finds the root of a function using the false position method
     - Inputs: 
-        - func = function
-        - xl = lower bounds
+        - func = function\
+        - xl = lower bounds\
         - xu = upper bounds
         - es = stopping criterien
         - maxit = maximum iterations
