@@ -9,11 +9,11 @@ Algorithms created for MECH 105: Numerical Methods
 - False Position 
   - Finds the root of a function using the false position method
     - Inputs: func = function
-              xl = lower bouds
-              xu = upper bounds
-              ea = stopping criterien
-              maxit = maximum iterations
-              varargin = other information
+    -          xl = lower bouds
+    -          xu = upper bounds
+    -          ea = stopping criterien
+    -          maxit = maximum iterations
+    -          varargin = other information
     - Ouputs: root = root of function
               fx = f(x) value
               ea = approximate error
