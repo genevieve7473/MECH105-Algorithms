@@ -1,17 +1,17 @@
 ## False Position Root Finding Method
 
 Finds the root of a function using the false position method
-    - Inputs: 
-        - func = function\
-        - xl = lower bounds\
-        - xu = upper bounds
-        - es = stopping criterien
-        - maxit = maximum iterations
-        - varargin = other information
-    - Ouputs: 
-        - root = root of the function
-        - fx = f(x) value  
-        - ea = approximate error
-        - iter = number of iterations
+- Inputs: 
+    - func = function\
+    - xl = lower bounds\
+    - xu = upper bounds\
+    - es = stopping criterien\
+    - maxit = maximum iterations\
+    - varargin = other information
+- Ouputs: 
+    - root = root of the function\
+    - fx = f(x) value\
+    - ea = approximate error\
+    - iter = number of iterations
 
-Format  [root, fx, ea, iter] = falsePosition(func, xl, xu, es, maxit, varargin)
+Format:  [root, fx, ea, iter] = falsePosition(func, xl, xu, es, maxit, varargin)
