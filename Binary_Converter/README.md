@@ -7,3 +7,8 @@ Converts a base 10 number into a base 2 number
 
 Format:  
 [base2] = binaryConverter(base10)
+
+Example: ```
+binaryConverter(26);
+base2 = 1 1 0 1 0
+```
