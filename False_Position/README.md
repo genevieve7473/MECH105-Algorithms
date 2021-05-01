@@ -22,7 +22,9 @@ Example:
 func = @(x) 8*x.^3 + 12*x.^2 - x + 4;
 falsePosition(func, 0, 10, 0.01, 100)
 
-ans = -1.7332
+ans =
+
+   -1.7332
 ```
 
 
