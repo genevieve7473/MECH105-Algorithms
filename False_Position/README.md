@@ -17,9 +17,9 @@ Finds the root of a function using the false position method
 Format:\
 [root, fx, ea, iter] = falsePosition(func, xl, xu, es, maxit, varargin)
 
-Example:\
+Example:
 ```
-binaryConverter(26);\
+binaryConverter(26);
 base2 = 1 1 0 1 0
 ```
 
