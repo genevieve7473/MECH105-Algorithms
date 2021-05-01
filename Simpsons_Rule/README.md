@@ -8,3 +8,13 @@ Numerically evaluates an integral by Simpson's 1/3 Rule
 
 Format:\
 [I] = Simpson(x,y)
+
+Example: 
+```
+x = [2 4 6 8 10 12 14 16 18];
+y = [23 21 20 18 22 26 21 19 24];
+Simpson(x,y)
+
+ans =
+
+  339.3333
