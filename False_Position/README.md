@@ -18,8 +18,6 @@ Format:\
 [root, fx, ea, iter] = falsePosition(func, xl, xu, es, maxit, varargin)
 
 Example:\
-'''
-binaryConverter(26);
-base2 = 1 1 0 1 0
-'''
+        - binaryConverter(26);\
+        - base2 = 1 1 0 1 0
 
