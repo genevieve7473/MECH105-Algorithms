@@ -11,5 +11,6 @@ Format:
 Example: 
 ```
 binaryConverter(26);
-base2 = 1 1 0 1 0
+
+ans = 1 1 0 1 0
 ```
